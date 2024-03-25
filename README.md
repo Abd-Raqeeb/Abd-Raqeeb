@@ -1,4 +1,4 @@
-/![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
+![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 <h1 align="center">Hi 👋, I'm Abdul Raqeeb Ansari</h1>
 <h3 align="center">A passionate Python developer from Mumbai , India</h3>
 
