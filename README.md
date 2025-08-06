@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **abdten1634@gmail.com**
+- 📫 How to reach me **abdulraqeeb.dev@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
