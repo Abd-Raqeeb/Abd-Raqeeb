@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd-raqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="abd-raqeeb" /> </p>
 
-- 🔭 I’m currently working on **TaskAssigner**
+- 🔭 I’m currently working as a Intern at **Cognifyz Technologies**
 
 - 🌱 I’m currently learning **Angular**
 
