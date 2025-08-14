@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Intern at **Cognifyz Technologies**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently working as  **Software Developer**
 
 - 📫 How to reach me **abdulraqeeb.dev@gmail.com**
 
